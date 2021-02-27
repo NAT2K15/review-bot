@@ -1,0 +1,15 @@
+{
+    "token": "",
+    "prefix": "!",
+
+    "embed": {
+        "color": "#000000",
+        "footer": "Ur cool footer goes here"
+    },
+
+    "review": {
+        "allowed_channels": "this is where you have to use this command",
+        "client_role": "this is the client role the user must have",
+        "review_sent": "this is where the embed will sent to"
+    }
+}
