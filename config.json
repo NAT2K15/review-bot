@@ -8,8 +8,7 @@
     },
 
     "review": {
-        "allowed_channels": "this is where you have to use this command",
-        "client_role": "this is the client role the user must have",
-        "review_sent": "this is where the embed will sent to"
+        "client_role": "client role id",
+        "review_sent": "channel of the logs channel"
     }
 }
