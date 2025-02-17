@@ -1,8 +1,22 @@
-# review-bot
-This is a discord review-bot for development servers/business servers who wanna have a cool review system. Example can be found below! 
+# Review Bot
+**Looking for a sleek and modern Discord review bot? We’ve got just what you need!**
 
-![](https://i.imgur.com/ut4BD3z.png)
-![](https://i.imgur.com/hN02w9z.png)
+Our bot is designed to enhance your Discord experience with ease. It’s user-friendly, intuitive, and packed with features that make managing reviews a breeze.
 
+### Key Features:
+- **Permission-Based Control**: Tailor access to keep your server secure.
+- **Comprehensive Logging System**: Track every review with ease.
+- **Sleek, Modern Design**: Simple yet powerful.
+- **Interactive Modal System**: A clean and dynamic user experience.
 
-To set this bot up go to config.json and edit all the values in there. If you have any questions make sure to join my discord @ https://discord.gg/RquDVTfDwu
+Upgrade your server's review system with our powerful bot today!
+
+---
+
+## Showcase & Screenshots
+https://www.youtube.com/embed/nYqg7hfPgjg
+![](https://i.imgur.com/Gz7xcJV.png)
+![](https://i.imgur.com/7iYgKPa.png)
+![](https://i.imgur.com/IL1s460.png)
+![](https://i.imgur.com/BI99oni.png)
+![](https://i.imgur.com/jcmEjja.png)
